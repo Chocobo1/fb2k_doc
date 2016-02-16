@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['rangemax',['RangeMax',['../d1/d5e/classCMyDSPPopup.html#abcf82b320024a5da613075bcb00945eba3e07a8a46dd2f51830111b5c99871b94',1,'CMyDSPPopup']]],
+  ['rangemin',['RangeMin',['../d1/d5e/classCMyDSPPopup.html#abcf82b320024a5da613075bcb00945ebae083cfcecf592763ef53c83c1917b1ee',1,'CMyDSPPopup']]],
+  ['rangetotal',['RangeTotal',['../d1/d5e/classCMyDSPPopup.html#abcf82b320024a5da613075bcb00945eba353a502269025fc13dba0a5964f2b125',1,'CMyDSPPopup']]],
+  ['raw_5fbits_5fper_5fsample',['raw_bits_per_sample',['../df/df8/input__raw_8cpp.html#ab04a0655cd1e3bcac5e8f48c18df1a57a2724e98f198a7097a9f37fe3a078241a',1,'input_raw.cpp']]],
+  ['raw_5fbytes_5fper_5fsample',['raw_bytes_per_sample',['../df/df8/input__raw_8cpp.html#ab04a0655cd1e3bcac5e8f48c18df1a57aff325b17dc245fce311a7b8de2d6d962',1,'input_raw.cpp']]],
+  ['raw_5fchannels',['raw_channels',['../df/df8/input__raw_8cpp.html#ab04a0655cd1e3bcac5e8f48c18df1a57a2f2ff22bc1c0a829c64fbb79a158d689',1,'input_raw.cpp']]],
+  ['raw_5fsample_5frate',['raw_sample_rate',['../df/df8/input__raw_8cpp.html#ab04a0655cd1e3bcac5e8f48c18df1a57ad3f60a256481493e69651b67b3557740',1,'input_raw.cpp']]],
+  ['raw_5ftotal_5fsample_5fwidth',['raw_total_sample_width',['../df/df8/input__raw_8cpp.html#ab04a0655cd1e3bcac5e8f48c18df1a57a862cad6f3321b7be110e555c95733542',1,'input_raw.cpp']]],
+  ['realloc_5fsafe',['realloc_safe',['../d1/d26/classpfc_1_1traits__service__ptr.html#add3b36a62503f43ca34111fea0854c92a758eebb3c1570d331258dac7a03a513c',1,'pfc::traits_service_ptr::realloc_safe()'],['../d2/d0e/classpfc_1_1traits__rcptr.html#a534cba0fe36a050642406e39dc0c0328abf98dfcbdb2d63c578ef272bf9868337',1,'pfc::traits_rcptr::realloc_safe()'],['../d8/d56/classpfc_1_1traits__t_3_01refcounted__object__ptr__t_3_01T_01_4_01_4.html#ac7de1ea04961700420a308ceb528fa72a12025c9b89ebbe6f844e0d641985ee46',1,'pfc::traits_t&lt; refcounted_object_ptr_t&lt; T &gt; &gt;::realloc_safe()'],['../de/d02/classpfc_1_1traits__default.html#af366b5637ba18bafbb24a8d158a5c59ca6dae2d04adc7533c10f95067b820ebda',1,'pfc::traits_default::realloc_safe()'],['../d0/dc8/classpfc_1_1traits__default__movable.html#ab264881977cca05fa75c08e7127884a2a6f858ad0f941c307624c1f6a43802a68',1,'pfc::traits_default_movable::realloc_safe()'],['../db/da5/classpfc_1_1traits__rawobject.html#a0d5775f98c53d96e234ba7a0a5f8232caeb495381996deef7f1ddc726a4b20a57',1,'pfc::traits_rawobject::realloc_safe()'],['../da/d46/namespacepfc.html#a27c01d80eae7285936e706ab434a7f79a681f0a7d756f0f9ce2394794b067ebd3',1,'pfc::traits_vtable::realloc_safe()'],['../da/d46/namespacepfc.html#acd0828279e3fde11ba8d5d2aaaa23914ae82311f1f3acdb1e1b74ae1da81820e3',1,'pfc::combine_traits::realloc_safe()']]],
+  ['resettable',['resettable',['../db/d2d/preferences__page_8h.html#aaa1a8d80c3fa96b59f8026a898bbc925aa0759b21fc6e09a45f19ce84737dd262',1,'preferences_state']]],
+  ['result_5fnot_5fours',['RESULT_NOT_OURS',['../d9/db9/classcommandline__handler.html#ae8b86e4a2bd7e2ae28e750096af6fe76a9ab23d0e18a8abee48406461ed2a0db0',1,'commandline_handler']]],
+  ['result_5fprocessed',['RESULT_PROCESSED',['../d9/db9/classcommandline__handler.html#ae8b86e4a2bd7e2ae28e750096af6fe76a2e4a6fefb23dc42bba270ef1ff126a35',1,'commandline_handler']]],
+  ['result_5fprocessed_5fexpect_5ffiles',['RESULT_PROCESSED_EXPECT_FILES',['../d9/db9/classcommandline__handler.html#ae8b86e4a2bd7e2ae28e750096af6fe76a9126e7a51a8368fc35334b510083ca22',1,'commandline_handler']]],
+  ['root_5fconvert',['root_convert',['../dc/d89/namespacecontextmenu__priorities.html#aa71e4e2d67ec601b3f9de3056f6b1ed3a4fa8eb17455ac1d87c827b1fdd2f4d50',1,'contextmenu_priorities']]],
+  ['root_5ffileoperations',['root_fileoperations',['../dc/d89/namespacecontextmenu__priorities.html#aa71e4e2d67ec601b3f9de3056f6b1ed3a77929ce758508d968f5c55a76d254586',1,'contextmenu_priorities']]],
+  ['root_5flegacy',['root_legacy',['../dc/d89/namespacecontextmenu__priorities.html#aa71e4e2d67ec601b3f9de3056f6b1ed3a02bd8c667a4bce22392627a1d8bb00a2',1,'contextmenu_priorities']]],
+  ['root_5fmain',['root_main',['../dc/d89/namespacecontextmenu__priorities.html#aa71e4e2d67ec601b3f9de3056f6b1ed3a72c2e6f7652340d95b4be7801aa7bf06',1,'contextmenu_priorities']]],
+  ['root_5fplaybackstatistics',['root_playbackstatistics',['../dc/d89/namespacecontextmenu__priorities.html#aa71e4e2d67ec601b3f9de3056f6b1ed3a3c92be5bbc3642e62c9a94f076935151',1,'contextmenu_priorities']]],
+  ['root_5fproperties',['root_properties',['../dc/d89/namespacecontextmenu__priorities.html#aa71e4e2d67ec601b3f9de3056f6b1ed3a1ac18997884598ecb6eef959925c88b5',1,'contextmenu_priorities']]],
+  ['root_5fqueue',['root_queue',['../dc/d89/namespacecontextmenu__priorities.html#aa71e4e2d67ec601b3f9de3056f6b1ed3acf89158b8a32301453ceb512adb017a2',1,'contextmenu_priorities']]],
+  ['root_5freplaygain',['root_replaygain',['../dc/d89/namespacecontextmenu__priorities.html#aa71e4e2d67ec601b3f9de3056f6b1ed3a320e069e09cd55c200e9ef5cd9a13db8',1,'contextmenu_priorities']]],
+  ['root_5ftagging',['root_tagging',['../dc/d89/namespacecontextmenu__priorities.html#aa71e4e2d67ec601b3f9de3056f6b1ed3acf292c3c55c258800b7c096a28a23de4',1,'contextmenu_priorities']]],
+  ['root_5futilities',['root_utilities',['../dc/d89/namespacecontextmenu__priorities.html#aa71e4e2d67ec601b3f9de3056f6b1ed3ad8aca0ffb46eaa97bd6351f548723f2f',1,'contextmenu_priorities']]]
+];
